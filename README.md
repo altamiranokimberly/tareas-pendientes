@@ -20,7 +20,7 @@ El propósito de esta página web es permitir a los usuarios agregar, marcar com
 - **Persistencia de Datos**: Las tareas se almacenan localmente usando el "localStorage" del navegador, por lo que persisten incluso después de recargar la página.
 - **Visualización de Fecha**: Se muestra la fecha actual en la parte superior de la lista.
 
-
+Podrás encontrarlo aquí [TareasPendientes](https://tareas-pendientes-mu.vercel.app/).
 
 ### Captura del proyecto
 ![Captura del proyecto](/assets/capturaLista.jpg)
