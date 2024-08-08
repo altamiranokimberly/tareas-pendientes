@@ -1,4 +1,4 @@
-#Lista de tareas pendientes de Cintia Altamirano Cundapi
+# Lista de tareas pendientes de Cintia Altamirano Cundapi
 ## Proyecto usando JS
 
 Proyecto creado durante el bootcamp de TecnoloChicas Pro
